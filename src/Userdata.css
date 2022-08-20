@@ -1,0 +1,11 @@
+tbody{
+    display:block;
+    text-align: center;
+    margin: 20px;
+    padding: 20px;
+}
+td, th {
+    
+    border: 1px solid #ddd;
+    padding: 8px;
+ }
